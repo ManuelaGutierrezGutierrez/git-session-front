@@ -1,1 +1,2 @@
-Esta es la prueba 2
+Esta es la prueba 2.
+Después he realizado un cambio.
